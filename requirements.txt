@@ -3,3 +3,4 @@ librosa
 numpy
 matplotlib
 streamlit_option_menu
+pandas
